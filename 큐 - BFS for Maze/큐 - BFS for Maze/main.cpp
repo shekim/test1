@@ -5,6 +5,8 @@
 #include <queue>
 using namespace std;
 
+// BFS
+
 int a = 0, b = 0, sa = 0, sb = 0, ta = 0, tb = 0;
 int s = 1, q = 0;
 int map[100][100];
