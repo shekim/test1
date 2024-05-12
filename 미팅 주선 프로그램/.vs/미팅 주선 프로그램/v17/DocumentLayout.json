@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB9576B-8993-438F-A0F9-6CBF09F03553}|\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AB9576B-8993-438F-A0F9-6CBF09F03553}|\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "RelativeDocumentMoniker": "\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "ToolTip": "C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "RelativeToolTip": "\uBBF8\uD305 \uC8FC\uC120 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwIgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T06:17:02.494Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

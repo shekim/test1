@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612169E7-AE3F-418A-A00E-778D86C127AC}|\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo.vcxproj|C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{612169E7-AE3F-418A-A00E-778D86C127AC}|\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo.vcxproj|solutionrelative:\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\main.cpp",
+              "RelativeDocumentMoniker": "\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\main.cpp",
+              "ToolTip": "C:\\Users\\Mose\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\main.cpp",
+              "RelativeToolTip": "\uD1A0\uC774 \uD3B8\uC9D1\uAE30 Undo Redo\\main.cpp",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv6YAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T12:19:20.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(106,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(106,10):
+  서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(111,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(111,11):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(112,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(112,11):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(112,11):
+  누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(112,11):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(113,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(113,11):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(113,11):
+  누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(113,11):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\미팅 주선 프로그램\main.cpp(45,1): warning C4715: 'CircularQueue::dequeue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  미팅 주선 프로그램.vcxproj -> C:\Users\Mose\Desktop\자료구조\미팅 주선 프로그램\x64\Debug\미팅 주선 프로그램.exe
